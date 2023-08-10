@@ -1,0 +1,14 @@
+C:\Users\이해창\source\repos\URCommunication\URCommunicationTest\bin\Debug\netcoreapp3.1\URCommunicationTest.exe
+C:\Users\이해창\source\repos\URCommunication\URCommunicationTest\bin\Debug\netcoreapp3.1\URCommunicationTest.deps.json
+C:\Users\이해창\source\repos\URCommunication\URCommunicationTest\bin\Debug\netcoreapp3.1\URCommunicationTest.runtimeconfig.json
+C:\Users\이해창\source\repos\URCommunication\URCommunicationTest\bin\Debug\netcoreapp3.1\URCommunicationTest.runtimeconfig.dev.json
+C:\Users\이해창\source\repos\URCommunication\URCommunicationTest\bin\Debug\netcoreapp3.1\URCommunicationTest.dll
+C:\Users\이해창\source\repos\URCommunication\URCommunicationTest\bin\Debug\netcoreapp3.1\URCommunicationTest.pdb
+C:\Users\이해창\source\repos\URCommunication\URCommunicationTest\obj\Debug\netcoreapp3.1\URCommunicationTest.csproj.AssemblyReference.cache
+C:\Users\이해창\source\repos\URCommunication\URCommunicationTest\obj\Debug\netcoreapp3.1\URCommunicationTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\이해창\source\repos\URCommunication\URCommunicationTest\obj\Debug\netcoreapp3.1\URCommunicationTest.AssemblyInfoInputs.cache
+C:\Users\이해창\source\repos\URCommunication\URCommunicationTest\obj\Debug\netcoreapp3.1\URCommunicationTest.AssemblyInfo.cs
+C:\Users\이해창\source\repos\URCommunication\URCommunicationTest\obj\Debug\netcoreapp3.1\URCommunicationTest.csproj.CoreCompileInputs.cache
+C:\Users\이해창\source\repos\URCommunication\URCommunicationTest\obj\Debug\netcoreapp3.1\URCommunicationTest.dll
+C:\Users\이해창\source\repos\URCommunication\URCommunicationTest\obj\Debug\netcoreapp3.1\URCommunicationTest.pdb
+C:\Users\이해창\source\repos\URCommunication\URCommunicationTest\obj\Debug\netcoreapp3.1\URCommunicationTest.genruntimeconfig.cache
